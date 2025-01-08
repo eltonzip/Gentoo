@@ -1,0 +1,2 @@
+app-editors/emacs gtk
+app-editors/vim -terminal -sound -lua
