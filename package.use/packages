@@ -1,0 +1,7 @@
+app-editors/emacs gtk
+app-editors/vim -terminal -sound -lua
+app-misc/fastfetch -vulkan -xfce
+media-fonts/noto cjk
+sys-kernel/installkernel grub dracut
+media-video/obs-studio -ssl
+net-wireless/iwd standalone
